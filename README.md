@@ -2,4 +2,4 @@
 
 contained in this repo are erroneous files that are needed to be fixed.
 The files are written in various programming languages.
-Note the FIX in the commit section.
+Note the [FIX] in the commit section.
